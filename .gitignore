@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+
+# ignore all csv anywhere
+*.csv
+
+# ignore all json inside any data folder
+data/
+
+# driver
+chromedriver.exe
+
+# OS
+.DS_Store
+Thumbs.db
